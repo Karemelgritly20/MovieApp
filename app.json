@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "toursapp",
-    "slug": "toursapp",
+    "name": "MovieApp",
+    "slug": "MovieApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/popcorn.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/popcorn.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#282D4F"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
